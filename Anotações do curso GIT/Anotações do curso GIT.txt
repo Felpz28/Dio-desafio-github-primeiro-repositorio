@@ -1,0 +1,9 @@
+***** Comandos básicos do para utilizar no Git *****
+
+ls > Lista para ver pastas
+git init > Cria repositório
+Ctrl+l > Limpa dados
+git add > Adiciona pasta
+git commit > Criar um instantâneo das alterações preparadas 
+git clone > Copia repositório
+
